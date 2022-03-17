@@ -1,0 +1,2 @@
+def hash():
+    pass
